@@ -22,8 +22,8 @@ Passionate about learning new technologies and solving real-world problems
 - **Pic to Script**  
   Android application using OCR to extract text from images and convert it into a document  
 
-- **Huffman Coding Compression Tool**  
-  C++ implementation for file compression and decompression using Huffman encoding  
+- **Driver Monitoring System**  
+  AI based system for detecting driver behaviour while driving using YOLO (You Only Look Once) model
 
 ---
 
@@ -42,8 +42,8 @@ Passionate about learning new technologies and solving real-world problems
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/your-profile  
-- LeetCode: https://leetcode.com/your-username  
+- LinkedIn: www.linkedin.com/in/chaitanyakulkarni1345
+- LeetCode: https://leetcode.com/u/chitucoder/ 
 
 ---
 
