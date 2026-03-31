@@ -8,10 +8,10 @@ Passionate about learning new technologies and solving real-world problems
 ---
 
 ## 🛠️ Tech Stack
-- **Programming:** Python, C++, Java  
+- **Programming:** C++, Java, Python  
 - **Backend:** FastAPI, Flask  
 - **Mobile:** Android (Java, XML)  
-- **Concepts:** Machine Learning, NLP, Data Structures & Algorithms  
+- **Concepts:** Machine Learning, Data Structures & Algorithms  
 
 ---
 
@@ -34,16 +34,10 @@ Passionate about learning new technologies and solving real-world problems
 
 ---
 
-## 🎯 Goals
-- Build scalable and production-ready AI systems  
-- Strengthen problem-solving and system design skills  
-- Gain industry experience through internships and projects  
-
----
-
 ## 🔗 Connect with Me
 - LinkedIn: www.linkedin.com/in/chaitanyakulkarni1345
-- LeetCode: https://leetcode.com/u/chitucoder/ 
+- LeetCode: https://leetcode.com/u/chitucoder/
+- Gmail: chaitanyakulkarni1345@gmail.com
 
 ---
 
